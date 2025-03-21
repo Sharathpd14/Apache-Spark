@@ -130,5 +130,12 @@ Apache Spark follows a **distributed execution model**, where tasks are divided 
 ---
  
 
-📌 **Learn More**: [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)  
+📌 **Learn More**: [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)
+---
+
+## Repo-Chatbot  
+
+### 🚀 **Try our AI chatbot for Spark-related questions!**  
+
+👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)  
 
