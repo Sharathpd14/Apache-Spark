@@ -6,7 +6,7 @@ We start from the creation of a Spark job, and then discuss its execution. Final
   &nbsp; &nbsp; &nbsp; **1). [Introduction](https://github.com/Sharathpd14/Apache-Spark/blob/main/Introduction/overview.md) Overview of Apache Spark**  
   &nbsp; &nbsp; &nbsp; **2). RDDs, DataFrames, and Datasets**  
 
-![Alt Text](https://github.com/Sharathpd14/Apache-Spark/blob/main/Screenshot%202024-10-01%20230532.png)
+![Image](https://github.com/user-attachments/assets/3017c6c7-0b09-4f85-9b29-6ba6fe8255bf)
 
 ## ⭐ Support the Project
 If you find this repository useful, **star ⭐** it and share it with others! 😊
