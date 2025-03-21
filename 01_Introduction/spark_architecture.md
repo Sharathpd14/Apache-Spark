@@ -41,7 +41,7 @@ Apache Spark's architecture is like a well-coordinated team, where each componen
 
 &nbsp;
 
-#### **2. Cluster Manager**  
+### **2. Cluster Manager**  
 
 Spark can run on different **cluster managers** to distribute and manage resources across nodes. These include:  
 
@@ -54,7 +54,7 @@ The **Cluster Manager** allocates resources (executors) to the **Driver Program*
 
 &nbsp;
 
-&nbsp;&nbsp;**3. Executors**  
+### **3. Executors**  
 
 Executors are the **worker nodes** in a Spark cluster responsible for executing assigned tasks.  
 
@@ -67,7 +67,7 @@ Executors **run in parallel** across multiple nodes, making Spark a powerful dis
 
 &nbsp;
 
-&nbsp;&nbsp;**4. Tasks**  
+### **4. Tasks**  
 
 Tasks are the **smallest units of execution** in Spark, representing operations applied to partitions of data.  
 
@@ -82,7 +82,7 @@ Efficient task execution ensures high performance and scalability. 🚀
 &nbsp;
 
 
-&nbsp;&nbsp;**5. DAG Scheduler**  
+### **5. DAG Scheduler**  
 
 The **DAG Scheduler** translates user-defined computations into a **Directed Acyclic Graph (DAG)** and optimizes execution.
 
