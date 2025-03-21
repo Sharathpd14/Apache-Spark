@@ -20,7 +20,7 @@ Imagine a food delivery guy working in a busy city. He wants to deliver orders a
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
 
