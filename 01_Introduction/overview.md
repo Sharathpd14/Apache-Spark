@@ -18,8 +18,7 @@ Imagine a food delivery guy working in a busy city. He wants to deliver orders a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This avoids expensive disk I/O operations, making processing much faster.
 
-
-&nbsp;&nbsp;
+&nbsp;
 
 2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
 
@@ -33,7 +32,6 @@ Now, our smart delivery guy doesn’t go back to the restaurant after each deliv
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 3️⃣ Less Shuffling, More Efficiency 🚀
 
@@ -45,9 +43,6 @@ If the delivery guy went back to the restaurant after every delivery, it would w
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spark avoids unnecessary shuffling by keeping intermediate data in-memory, improving speed.
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 4️⃣ Delivering Orders Super Fast (Parallel Processing) ⚡
 
@@ -61,8 +56,6 @@ Since the delivery guy has all orders in memory, he can quickly find the best ro
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Spark isn’t just about speed—it’s packed with useful tools:
 
