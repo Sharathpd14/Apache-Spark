@@ -20,7 +20,7 @@ Imagine a food delivery guy working in a busy city. He wants to deliver orders a
 
 &nbsp;
 
-2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
+<p style="margin-top: 20px;">2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
 
 Now, our smart delivery guy doesn’t go back to the restaurant after each delivery. Instead, he remembers all the locations and delivers them one by one from memory.
 
@@ -28,7 +28,7 @@ Now, our smart delivery guy doesn’t go back to the restaurant after each deliv
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spark performs all computations in-memory, reducing the need to write intermediate data to disk.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This reduces shuffle operations and makes processing super fast.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This reduces shuffle operations and makes processing super fast.</p>
 
 
 
