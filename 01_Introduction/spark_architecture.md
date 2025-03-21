@@ -4,7 +4,7 @@
 
 Apache Spark's architecture is like a well-coordinated team, where each component plays a crucial role. These components work together seamlessly, ensuring efficient, distributed data processing while handling large-scale computations with speed and reliability.
 
-&nbsp;&nbsp;**1. Driver Program**
+### **1. Driver Program**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The **driver program** is the entry point of a Spark application. It plays a crucial role in managing the execution of Spark jobs.
 
@@ -41,7 +41,7 @@ Apache Spark's architecture is like a well-coordinated team, where each componen
 
 &nbsp;
 
-&nbsp;&nbsp;**2. Cluster Manager**  
+#### **2. Cluster Manager**  
 
 Spark can run on different **cluster managers** to distribute and manage resources across nodes. These include:  
 
