@@ -18,7 +18,7 @@ Imagine a food delivery guy working in a busy city. He wants to deliver orders a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This avoids expensive disk I/O operations, making processing much faster.
 
-&nbsp;
+
 
 <p style="margin-top: 20px;">2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
 
