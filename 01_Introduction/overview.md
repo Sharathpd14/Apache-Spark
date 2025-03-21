@@ -61,7 +61,6 @@ Because of in-memory optimization, reduced shuffling, and parallel execution, or
 
 &nbsp;
 
----
 
 Spark isn’t just about speed—it’s packed with useful tools:
 
