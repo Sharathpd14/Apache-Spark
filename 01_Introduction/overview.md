@@ -19,6 +19,8 @@ Imagine a food delivery guy working in a busy city. He wants to deliver orders a
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This avoids expensive disk I/O operations, making processing much faster.
 
 
+&nbsp;&nbsp;
+
 2️⃣ Processing Without Going Back (In-Memory Computation) 🔥
 
 Now, our smart delivery guy doesn’t go back to the restaurant after each delivery. Instead, he remembers all the locations and delivers them one by one from memory.
