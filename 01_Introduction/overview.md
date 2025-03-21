@@ -49,6 +49,7 @@ If the delivery guy went back to the restaurant after every delivery, it would w
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 4️⃣ Delivering Orders Super Fast (Parallel Processing) ⚡
 
 Since the delivery guy has all orders in memory, he can quickly find the best route and deliver them without delays.
