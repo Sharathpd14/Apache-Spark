@@ -28,6 +28,10 @@ Now, our smart delivery guy doesn’t go back to the restaurant after each deliv
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This reduces shuffle operations and makes processing super fast.
 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 3️⃣ Less Shuffling, More Efficiency 🚀
 
 If the delivery guy went back to the restaurant after every delivery, it would waste time and fuel. By keeping all order details in his memory (RAM), he minimizes unnecessary movement (just like Spark minimizes data shuffling).
