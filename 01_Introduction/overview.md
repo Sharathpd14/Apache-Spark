@@ -137,3 +137,12 @@ Apache Spark is a powerful, fast, and flexible big data processing engine widely
 - 📖 [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)  
 - 📡 [Spark Streaming Guide](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
 
+---
+
+## Repo-Chatbot  
+
+### 🚀 **Try our AI chatbot for Spark-related questions!**  
+
+👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)
+
+
