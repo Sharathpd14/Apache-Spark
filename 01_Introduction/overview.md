@@ -100,15 +100,17 @@ In short, Spark is like a turbocharged data engine that helps businesses analyze
 
 ---
 
-## ⚡ Why Choose Spark Over Hadoop?
+# ⚡ Apache Spark vs. Hadoop MapReduce
 
-| Feature               | 🚀 Apache Spark | 🐘 Hadoop |
-|----------------------|---------------|---------|
-| **✅ Speed**        | **Up to 100x faster** (in-memory processing) | Disk-based, slower |
-| **✅ Ease of Use**  | Supports **Python, Scala, Java, R** | Requires **Java** |
-| **✅ Unified Platform** | Handles **batch, streaming, ML, and graph processing** | Needs separate tools (MapReduce, Storm, etc.) |
-| **✅ Flexibility**  | Perfect for **SQL queries, data science, AI** | **Limited adaptability** |
-| **✅ Efficient Resource Use** | **Dynamically allocates resources**, optimizing performance | **Static resource allocation** |
+| Feature           | Apache Spark 🚀 | Hadoop MapReduce 🐘 |
+|------------------|----------------|---------------------|
+| **Speed**        | ⚡ **Up to 100x faster** (in-memory processing) | 🐢 Slower (writes intermediate results to disk) |
+| **Processing Model** | **In-memory & optimized execution** | **Disk-based, step-by-step execution** |
+| **Ease of Use**  | ✅ Supports **Python, Scala, Java, R** | ❌ Mostly **Java**, more complex |
+| **Real-Time Processing** | ✅ Yes (via **Spark Streaming**) | ❌ No (batch only) |
+| **Machine Learning** | ✅ Yes (via **MLlib**) | ❌ No (needs extra tools) |
+| **Flexibility** | ✅ Supports batch, streaming, ML, graphs | ❌ Only batch processing |
+
 
 
 
