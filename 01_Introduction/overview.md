@@ -10,6 +10,8 @@ What makes Spark special? Unlike Hadoop MapReduce, which writes intermediate res
 
 Imagine a food delivery guy working in a busy city. He wants to deliver orders as fast as possible. Instead of going back to the restaurant each time, he smartly loads multiple orders into his memory (bag) first and then delivers them efficiently.
 
+![Image](https://github.com/user-attachments/assets/b42e0e88-ce7c-4c75-b772-330f986ea311)
+
 1️⃣ Collecting All Orders in Memory (Data Loading) 🧠
 
 &nbsp;&nbsp;&nbsp;&nbsp;A traditional delivery guy would pick up one order, deliver it, return, and repeat. But a smart delivery guy collects multiple orders at once and keeps them in his bag (just like Spark loads data into memory instead of fetching it from disk repeatedly).
@@ -133,4 +135,13 @@ Apache Spark is a powerful, fast, and flexible big data processing engine widely
 🔗 **Useful Resources:**  
 - 📖 [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)  
 - 📡 [Spark Streaming Guide](https://spark.apache.org/docs/latest/streaming-programming-guide.html)
+
+---
+
+## Repo-Chatbot  
+
+### 🚀 **Try our AI chatbot for Spark-related questions!**  
+
+👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)
+
 
