@@ -89,6 +89,8 @@ The **DAG Scheduler** translates user-defined computations into a **Directed Acy
 
 A well-structured DAG ensures that Spark optimally executes tasks while minimizing recomputation.
 
+&nbsp;
+
 ## ⚡ Apache Spark Execution Process  
 
 Apache Spark follows a **distributed execution model**, where tasks are divided across multiple nodes for parallel processing. Here’s how the execution process works:  
