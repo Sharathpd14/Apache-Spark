@@ -1,5 +1,5 @@
 # Resilient Distributed Dataset (RDD) in Apache Spark
-Resilient Distributed Dataset (RDD) is the fundamental data structure in Apache Spark. It is an immutable, distributed collection of objects that enables parallel processing across a cluster. RDDs provide fault tolerance and scalability, making them a powerful abstraction for big data processing.
+Resilient Distributed Dataset (RDD) is the fundamental data structure in Apache Spark. It is an immutable, distributed collection of objects that enables parallel processing across a cluster. RDDs provide fault tolerance and scalability, making them a powerful abstraction for big data processing. [More](https://spark.apache.org/docs/latest/rdd-programming-guide.html)
 
 ### Characteristics of RDD
 &nbsp;&nbsp;&nbsp;**1. Immutable**
