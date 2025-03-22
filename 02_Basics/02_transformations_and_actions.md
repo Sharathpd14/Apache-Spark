@@ -50,7 +50,9 @@ filtered_df = df.filter(df.age > 18)  # Doesn't execute yet
 filtered_df.show()  # Now Spark processes and shows results
 
 ```
+![Image](https://github.com/user-attachments/assets/42f86eba-dc1c-42f6-abaa-467aacd2ac4d)
 
+Image Source: [InfinitePy](https://infinitepy.com/p/main-transformations-actions-available-apache-spark-dataframe-overview-practical-examples)
 ## 🚀 Lazy Evaluation in Apache Spark  
 
 ### 🧐 What is Lazy Evaluation?  
