@@ -66,13 +66,13 @@ Because of in-memory optimization, reduced shuffling, and parallel execution, or
 
 Spark isn’t just about speed—it’s packed with useful tools:
 
-✅ MLlib – For machine learning tasks 🤖
+✅ [MLlib](https://spark.apache.org/mllib/) – For machine learning tasks 🤖
 
-✅ Spark SQL – To run queries like a database 📊
+✅ [Spark SQL](https://spark.apache.org/sql/) – To run queries like a database 📊
 
-✅ Structured Streaming – To handle real-time data ⚡
+✅ [Structured Streaming](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html) – To handle real-time data ⚡
 
-✅ GraphX – For graph-based computations 🔗
+✅ [GraphX](https://spark.apache.org/graphx/) – For graph-based computations 🔗
 
 
 In short, Spark is like a turbocharged data engine that helps businesses analyze and process massive amounts of information effortlessly! 🚀✨
