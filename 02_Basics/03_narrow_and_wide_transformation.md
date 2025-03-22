@@ -143,3 +143,4 @@ optimized_rdd.collect()  # Output: [('A', 4), ('B', 6)]
 | **Parallel Processing**  | High  | Limited  |
 | **Memory & CPU Usage**  | Low  | High  |
 
+## 🔗 Learn More: [Wide and Narrow Dependencies in Apache Spark](https://www.geeksforgeeks.org/wide-and-narrow-dependencies-in-apache-spark/)
