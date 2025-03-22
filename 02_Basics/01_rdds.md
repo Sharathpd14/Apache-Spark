@@ -31,11 +31,11 @@ RDD supports two types of operations:
 
 ### 1. Transformations (Lazy Execution)
 
-Transformations create new RDDs from existing ones and are only executed when an action is called. [know more](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/transformations_and_actions.md)
+Transformations create new RDDs from existing ones and are only executed when an action is called. [know more](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/02_transformations_and_actions.md)
 
 ### 2. Actions (Trigger Execution)
 
-Actions trigger execution of transformations and return values. [know more](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/transformations_and_actions.md)
+Actions trigger execution of transformations and return values. [know more](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/02_transformations_and_actions.md)
 
 ## Creating RDDs
 
