@@ -4,7 +4,7 @@
 
 Imagine you have a huge amount of data and need to process it quickly—this is where Apache Spark comes in! It's a powerful engine designed to handle large-scale data processing, whether in data centers or the cloud.
 
-What makes Spark special? Unlike Hadoop MapReduce, which writes intermediate results to disk, Spark keeps data in memory, making it way faster 🚀.
+What makes Spark special? Unlike [Hadoop MapReduce](https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html), which writes intermediate results to disk, Spark keeps data in memory, making it way faster 🚀.
 
 ---
 
