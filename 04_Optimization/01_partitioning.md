@@ -85,8 +85,8 @@ SELECT * FROM sales WHERE year = 2023;
 
 Only the partition containing year = 2023 will be read, avoiding a full table scan and improving performance significantly.
 
-
-## Know more : [Data Partitioning in PySpark](https://www.geeksforgeeks.org/data-partitioning-in-pyspark/)
+---
+### Know more : [Data Partitioning in PySpark](https://www.geeksforgeeks.org/data-partitioning-in-pyspark/)
 
 ## Optimizing Partitioning for Performance  
 
