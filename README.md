@@ -34,7 +34,7 @@ Apache Spark enables users to process and analyze large datasets efficiently usi
     - [monitoring spark](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/02_monitoring_spark.md)
     - [submiting spark jobs](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/03_submitting_spark_jobs.md)
  
-##  Installing PySpark
+##  Download Apache Spark
 
 To download Apache Spark, follow these steps:
 
