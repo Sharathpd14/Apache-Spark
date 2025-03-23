@@ -8,7 +8,7 @@ What makes Spark special? Unlike [Hadoop MapReduce](https://hadoop.apache.org/do
 
 ---
 
-Imagine a food delivery guy working in a busy city. He wants to deliver orders as fast as possible. Instead of going back to the restaurant each time, he smartly loads multiple orders into his memory (bag) first and then delivers them efficiently.
+Imagine a food delivery guy working in a busy city. He wants to deliver orders as fast as possible. Instead of going back to the restaurant each time, he smartly loads multiple orders into his bag (memory) first and then delivers them efficiently.
 
 ![Image](https://github.com/user-attachments/assets/b42e0e88-ce7c-4c75-b772-330f986ea311)
 
