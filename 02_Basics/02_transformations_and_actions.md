@@ -4,7 +4,7 @@ When working with distributed data in Spark, operations fall into two main categ
 
 
 ## 🔄 Transformations - The Art of Shaping Data 
-Transformations modify a Spark **DataFrame** without altering the original data. Instead, they return a **new** DataFrame, maintaining **immutability** in Spark. [More...](https://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations)
+Transformations modify a Spark **DataFrame** without altering the original data. Instead, they return a **new** DataFrame, maintaining **immutability** in Spark. [More](https://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations)
 
 ### 📌 Key Characteristics of Transformations  
 - **Immutable** – The original dataset remains unchanged.  
@@ -25,7 +25,7 @@ df_filtered = df.filter(df["country"] == "India")
 ## ⚡ Actions - The Power of Execution   
 
 ### 🚀 What Are Actions?  
-In Apache Spark, **actions** are operations that **trigger the execution** of all previously recorded transformations. Unlike transformations, which are **lazy** and only build a lineage, actions **force computation** and return results. [More...](https://spark.apache.org/docs/latest/rdd-programming-guide.html#actions)
+In Apache Spark, **actions** are operations that **trigger the execution** of all previously recorded transformations. Unlike transformations, which are **lazy** and only build a lineage, actions **force computation** and return results. [More](https://spark.apache.org/docs/latest/rdd-programming-guide.html#actions)
 
 ### 🔍 How Actions Work  
 1️⃣ **Transformations are recorded but not executed**.  
