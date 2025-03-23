@@ -139,9 +139,4 @@ Apache Spark provides a robust, fault-tolerant, and scalable distributed computi
 ### 📌 **Learn More**: [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)
 ---
 
-## Repo-Chatbot  
-
-### 🚀 **Try our AI chatbot for Spark-related questions!**  
-
-👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)  
 
