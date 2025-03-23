@@ -4,6 +4,9 @@ When dealing with large datasets in Apache Spark, partitioning is a great way to
 
 Bucketing helps group data into a fixed number of evenly distributed **buckets** based on a specific column, improving shuffle efficiency and query performance.
 
+![Image](https://github.com/user-attachments/assets/eea45fd1-5fb5-4571-aa0c-c6f770969287)
+Image Source [Clairvoyant Blog](https://blog.clairvoyantsoft.com/bucketing-in-spark-878d2e02140f)
+
 ## What is Bucketing in Spark?
 
 Bucketing is a technique that divides data into a **fixed number of buckets** based on a **hashing function** applied to a column. Unlike partitioning, where files are stored in separate folders, **bucketing stores data in evenly distributed files inside a single directory**.
