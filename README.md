@@ -33,6 +33,35 @@ Apache Spark enables users to process and analyze large datasets efficiently usi
     - [cluster managing](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/01_cluster%20managing.md)
     - [monitoring spark](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/02_monitoring_spark.md)
     - [submiting spark jobs](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/03_submitting_spark_jobs.md)
+ 
+##  Installing PySpark
+
+To download Apache Spark, follow these steps:
+
+1. Visit the official [Apache Spark website](https://spark.apache.org/downloads.html).
+2. Choose a version of Spark that matches your requirements.
+3. Select a package type (e.g., pre-built for Hadoop, with or without Spark SQL).
+4. Click **Download** and unzip the file to your desired location.
+
+---
+
+# Installing PySpark
+
+To install PySpark, you can use `pip`, the Python package manager. Follow these steps:
+
+- Open your terminal or command prompt.
+
+- Run the following command to install PySpark:
+
+  ```bash
+  pip install pyspark
+  ```
+- Verify the installation by running the following command in Python:
+
+```bash
+  import pyspark
+  print(pyspark.__version__)
+```
 
 ## Repo-Chatbot  
 
