@@ -183,7 +183,7 @@ result.show()
 
 ## 📌 Optimizing Joins in Spark SQL  
 
-#### ✅ 1. Use Broadcast Joins for Small Tables  
+#### ✅ 1. Use [Broadcast Joins](https://www.mungingdata.com/apache-spark/broadcast-joins/) for Small Tables  
 If one dataset is small, broadcast it to avoid shuffling.  
 
 #### 💡 Python Example:  
@@ -197,7 +197,7 @@ result.show()
 
 ---
 
-#### ✅ 2. Enable Partition Pruning  
+#### ✅ 2. Enable [Partition Pruning](https://docs.cloudera.com/cdw-runtime/cloud/impala-reference/topics/impala-partition-pruning.html)   
 If a table is partitioned, Spark can skip irrelevant partitions.  
 
 #### 💡 SQL Example:  
@@ -208,7 +208,7 @@ SELECT * FROM employees WHERE dept_id = 101;
 
 ---
 
-#### ✅ 3. Enable Sort-Merge Joins  
+#### ✅ 3. Enable [Sort-Merge Joins](https://www.sparkcodehub.com/spark-what-is-a-sort-merge-join-in-spark-sql)  
 For large datasets, enable sort-merge joins for better performance.  
 
 #### 💡 Python Example:  
