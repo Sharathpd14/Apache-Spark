@@ -65,7 +65,7 @@ To install PySpark, you can use `pip`, the Python package manager. Follow these 
 
 ## Repo-Chatbot  
 
-### 🚀 **Try our AI chatbot for Spark-related questions!**  
+### 🚀 **Ask your doubt to our GitHub RepoBot!**  
 
 👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)
 
