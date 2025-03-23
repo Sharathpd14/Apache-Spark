@@ -7,6 +7,8 @@ With its ability to process data in-memory and perform tasks like batch processi
 
 Apache Spark enables users to process and analyze large datasets efficiently using a simple, easy-to-understand programming model. Whether you're building complex algorithms, querying large datasets, or analyzing real-time streams of data, Spark offers the performance and flexibility you need to succeed.
 
+[Apache Spark Documentation: Latest Release](https://spark.apache.org/docs/latest/)
+
 ## Table of Contents
 
 - Introduction
