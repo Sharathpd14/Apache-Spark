@@ -8,25 +8,25 @@ Cluster management in Spark refers to the process of coordinating multiple machi
 
 Spark supports multiple cluster managers, each designed for different use cases:
 
-### 1. Standalone Cluster Manager
+### 1. [Standalone Cluster Manager](https://spark.apache.org/docs/latest/spark-standalone.html#installing-spark-standalone-to-a-cluster)
 - Comes built-in with Spark.
 - Simple and easy to set up.
 - Suitable for small-scale deployments.
 - Limited resource management capabilities compared to other cluster managers.
 
-### 2. Apache Hadoop YARN (Yet Another Resource Negotiator)
+### 2. [Apache Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) (Yet Another Resource Negotiator)
 - A widely used cluster manager in Hadoop ecosystems.
 - Enables running Spark alongside other big data frameworks like Hive and HDFS.
 - Supports dynamic allocation of resources.
 - Provides high availability and scalability.
 
-### 3. Apache Mesos
+### 3. [Apache Mesos](https://www.dremio.com/wiki/apache-mesos/)
 - A distributed systems kernel that allows running multiple applications, including Spark, across a shared cluster.
 - Supports resource sharing and isolation.
 - Suitable for multi-framework deployments.
 - More complex to set up compared to YARN and Standalone.
 
-### 4. Kubernetes
+### 4. [Kubernetes](https://medium.com/@FullStackSoftwareDeveloper/apache-spark-on-kubernetes-a-comprehensive-guide-fd5a0a37e07c#:~:text=Next%2C%20configure%20Spark%20to%20use,your%20Spark%20driver%20and%20executors.)
 - A container orchestration platform that enables Spark workloads to run in a cloud-native environment.
 - Supports automatic scaling and containerized deployments.
 - Ideal for modern cloud-based architectures.
