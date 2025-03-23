@@ -17,7 +17,7 @@ The optimizer follows four main phases:
 
 Each of these phases plays a crucial role in refining a computational query and making it as efficient as possible before execution.
 
-![Image](https://github.com/user-attachments/assets/9c8e7c3f-2cb6-4700-98a1-dee19e11a689)
+![Image](https://github.com/user-attachments/assets/abfe0f5a-a39a-4396-b31b-eee08050fd07)
 Image Source [O'Reilly](https://www.oreilly.com/library/view/learning-pyspark/9781786463708/ch03s02.html)
 
 ## Understanding the Four Phases of Catalyst Optimization
