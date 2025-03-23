@@ -76,6 +76,8 @@ df_selected = df_filtered.select("name", "age")  # Another transformation (lazy)
 
 df_selected.show()  # Action (triggers execution)
 ```
+![Image](https://github.com/user-attachments/assets/147e23ca-2c59-4f73-a783-8cb8f1f61ddd)
+Image Source: [Real Python](https://realpython.com/python-lazy-evaluation/)
 
 ## ⚡ Transformations vs. Actions in Apache Spark  
 
