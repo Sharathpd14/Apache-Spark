@@ -79,5 +79,6 @@ print(rdd2.collect())
 &nbsp;
 
 RDDs provide a low-level abstraction for distributed computing in Spark. While RDDs offer fine-grained control over operations, higher-level APIs like DataFrames and Datasets are often preferred for better optimization and ease of use. However, understanding RDDs is essential for advanced Spark applications and optimizations.
+
 ---
 
