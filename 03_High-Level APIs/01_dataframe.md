@@ -28,8 +28,7 @@ df.show()
 
 
 
-# Know More 
-[Dataframe Function's](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html)
+# Know more about [DataFrame Function's](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html)
 
 
 
