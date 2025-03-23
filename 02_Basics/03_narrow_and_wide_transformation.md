@@ -73,7 +73,7 @@ grouped_rdd.collect()
 
 ![Image](https://github.com/user-attachments/assets/fa456a70-8ce3-41c7-9003-a787d106e4d2)
 
-[Image Source]()
+Image Source [Data Engineer Things](https://blog.det.life/i-spent-8-hours-learning-the-details-of-the-apache-spark-scheduling-process-26816f805658)
 
 ## 🚀 How to Optimize Spark Transformations?
 
