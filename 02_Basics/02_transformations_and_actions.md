@@ -132,11 +132,6 @@ Image Source: [Real Python](https://realpython.com/python-lazy-evaluation/)
 
 🔗 **Learn More**: [RDD Programming Guide](https://spark.apache.org/docs/latest/)  
 
-
-## Repo-Chatbot  
-
-### 🚀 **Try our AI chatbot for Spark-related questions!**  
-
-👉 [Click here to Chat](https://repo-chatbot.streamlit.app/)  
+---
 
 
