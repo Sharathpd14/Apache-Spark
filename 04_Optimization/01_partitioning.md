@@ -10,6 +10,9 @@ If you’ve ever faced **slow queries, excessive shuffling, or memory overload**
 
 Partitioning is the process of dividing large datasets into smaller chunks (partitions) that can be processed independently in parallel. Spark automatically distributes these partitions across worker nodes to leverage parallelism.
 
+![Image](https://github.com/user-attachments/assets/16df0207-968f-4116-a953-752673ceca55)
+Image Source [StatusNeo](https://statusneo.com/everything-you-need-to-understand-data-partitioning-in-spark/#)
+
 ## Why is Partitioning Important?
 
 ✅ Increases parallel processing → Tasks run on smaller data chunks instead of loading everything at once.  
