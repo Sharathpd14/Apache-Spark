@@ -1,6 +1,6 @@
 # Spark SQL: Unlocking the Power of Big Data Queries
 
-Spark SQL is a powerful module in Apache Spark that enables querying structured and semi-structured data using SQL syntax. It integrates seamlessly with Spark's high-level APIs and supports various data formats like **Parquet, JSON, Avro, and ORC**. Spark SQL is widely used in big data processing for **analytics, reporting, and ETL pipelines**.  
+Spark SQL is a powerful module in Apache Spark that enables querying structured and semi-structured data using SQL syntax. It integrates seamlessly with Spark's high-level APIs and supports various data formats like **Parquet, JSON, Avro, and ORC**. Spark SQL is widely used in big data processing for **analytics, reporting, and ETL pipelines**. [More](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 
 ## Why Spark SQL?
