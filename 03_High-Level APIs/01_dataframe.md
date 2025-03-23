@@ -1,6 +1,6 @@
 ## 📄 Spark DataFrames: The Power of Distributed Data Processing
 
-Spark DataFrames are distributed, in-memory tables that allow efficient processing of structured data. Inspired by Pandas DataFrames, they provide a tabular format with named columns and data types. Unlike traditional tables, Spark DataFrames operate in a distributed environment, making them ideal for handling massive datasets.
+Spark DataFrames are distributed, in-memory tables that allow efficient processing of structured data. Inspired by Pandas DataFrames, they provide a tabular format with named columns and data types. Unlike traditional tables, Spark DataFrames operate in a distributed environment, making them ideal for handling massive datasets. [More](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 ### 🌟 Key Features of Spark DataFrames
 ✅ **Schema-Defined Structure** – Each column has a specific data type (Integer, String, Array, Map, Date, etc.).  
