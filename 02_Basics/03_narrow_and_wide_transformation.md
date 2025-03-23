@@ -71,6 +71,10 @@ grouped_rdd.collect()
 
 🔥 **Alternative?** Use `reduceByKey()` instead of `groupByKey()` for better performance!
 
+![Image](https://github.com/user-attachments/assets/fa456a70-8ce3-41c7-9003-a787d106e4d2)
+
+[Image Source]()
+
 ## 🚀 How to Optimize Spark Transformations?
 
 - Prefer **narrow transformations** whenever possible.
