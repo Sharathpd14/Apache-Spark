@@ -9,24 +9,24 @@ Apache Spark enables users to process and analyze large datasets efficiently usi
 
 ## Table of Contents
 
-- [Introduction](https://github.com/Sharathpd14/Apache-Spark/tree/main/01_Introduction)
+- Introduction
     - [overview](https://github.com/Sharathpd14/Apache-Spark/blob/main/01_Introduction/01_overview.md)
     - [spark architecture](https://github.com/Sharathpd14/Apache-Spark/blob/main/01_Introduction/02_spark_architecture.md)
-- [Basics](https://github.com/Sharathpd14/Apache-Spark/tree/main/02_Basics)
+- Basics
     - [rdds](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/01_rdds.md)
     - [transformations and actions](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/02_transformations_and_actions.md)
     - [narrow and wide transformations](https://github.com/Sharathpd14/Apache-Spark/blob/main/02_Basics/03_narrow_and_wide_transformation.md)
-- [High level API's](https://github.com/Sharathpd14/Apache-Spark/tree/main/03_High-Level%20APIs)
+- High level API's
     - [dataframes](https://github.com/Sharathpd14/Apache-Spark/blob/main/03_High-Level%20APIs/01_dataframe.md)
     - [spark sql](https://github.com/Sharathpd14/Apache-Spark/blob/main/03_High-Level%20APIs/02_spark_sql.md)
     - [joins](https://github.com/Sharathpd14/Apache-Spark/blob/main/03_High-Level%20APIs/03_joins.md)
   - [sql queries](https://github.com/Sharathpd14/Apache-Spark/blob/main/03_High-Level%20APIs/04_sql_queries.md)
-- [Optimization](https://github.com/Sharathpd14/Apache-Spark/tree/main/04_Optimization)
+- Optimization
     - [partitioning](https://github.com/Sharathpd14/Apache-Spark/blob/main/04_Optimization/01_partitioning.md)
     - [bucketing](https://github.com/Sharathpd14/Apache-Spark/blob/main/04_Optimization/02_bucketing.md)
     - [caching and persistance](https://github.com/Sharathpd14/Apache-Spark/blob/main/04_Optimization/03_caching_and_persistence.md)
     - [the catalyst optimizer](https://github.com/Sharathpd14/Apache-Spark/blob/main/04_Optimization/04_the_catalyst_optimizer.md)
-- [Deployment](https://github.com/Sharathpd14/Apache-Spark/tree/main/05_Deployment)
+- Deployment
     - [cluster managing](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/01_cluster%20managing.md)
     - [monitoring spark](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/02_monitoring_spark.md)
     - [submiting spark jobs](https://github.com/Sharathpd14/Apache-Spark/blob/main/05_Deployment/03_submitting_spark_jobs.md)
