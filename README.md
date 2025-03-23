@@ -45,7 +45,7 @@ To download Apache Spark, follow these steps:
 
 ---
 
-# Installing PySpark
+## Installing PySpark
 
 To install PySpark, you can use `pip`, the Python package manager. Follow these steps:
 
