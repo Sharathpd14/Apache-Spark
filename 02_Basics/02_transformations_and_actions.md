@@ -50,7 +50,7 @@ filtered_df = df.filter(df.age > 18)  # Doesn't execute yet
 filtered_df.show()  # Now Spark processes and shows results
 
 ```
-![Image](https://github.com/user-attachments/assets/9a37ceba-cb6e-45b4-9090-7e894cd9bcb8)
+![Image](https://github.com/user-attachments/assets/4d95732b-b704-428a-9b8a-ef0e4cc8fd41)
 
 Image Source: [InfinitePy](https://infinitepy.com/p/main-transformations-actions-available-apache-spark-dataframe-overview-practical-examples)
 ## 🚀 Lazy Evaluation in Apache Spark  
@@ -76,7 +76,7 @@ df_selected = df_filtered.select("name", "age")  # Another transformation (lazy)
 
 df_selected.show()  # Action (triggers execution)
 ```
-![Image](https://github.com/user-attachments/assets/147e23ca-2c59-4f73-a783-8cb8f1f61ddd)
+![Image](https://github.com/user-attachments/assets/5395b189-7396-440f-988a-44558077d483)
 Image Source: [Real Python](https://realpython.com/python-lazy-evaluation/)
 
 ## ⚡ Transformations vs. Actions in Apache Spark  
